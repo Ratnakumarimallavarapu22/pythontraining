@@ -1,0 +1,59 @@
+'''''
+
+#project.doc
+#project1.doc -->
+#project2.doc -->3 rd
+
+
+#which files is newest.
+#who changed what?
+#delete --we can recover the code multiple people can work together
+
+#linus torvalds --->2005
+
+
+
+git architecture:
+            working directory(add)
+            :hello.py ver-1,ver-2
+                   |
+            staging area:
+            Temporary area before commit
+                   |
+            Local repository
+
+                   |
+            remote repository(github,)
+    
+    create a files
+          |
+    git add
+          |
+    staging area
+          |
+    git commit
+          |
+    local repository
+          |
+      git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
